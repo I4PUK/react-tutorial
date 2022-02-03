@@ -82,7 +82,7 @@ function Posts() {
           setModal(true);
         }}
       >
-        Создать пользователя
+        Создать пост
       </MyButton>
       <MyModal visible={modal} setVisible={setModal}>
         <PostForm create={createPost} />
