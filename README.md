@@ -4,6 +4,7 @@
 
 ## Использованные технологии:
   - react, react hooks
+  - SPA
   - react-router-dom, react-transition-group, axios
   - backend: https://jsonplaceholder.typicode.com/posts
 
