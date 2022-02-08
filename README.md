@@ -7,6 +7,7 @@
   - SPA
   - react-router-dom, react-transition-group, axios
   - backend: https://jsonplaceholder.typicode.com/posts
+  - CSS modules
 
 ## Текущее состояние проекта
 ### В проекте реализованы и работают следующие элементы
